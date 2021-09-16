@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Manish6858 
-- 👀 I’m interested in Mobile Application Development
+- 👋 Hi, I’m Manish Pal
+- 👀 I’m having approx 3 year of experience in Software Development.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web Project, Mobile Application Project.
 - 📫 Reach me on Linekedin at https://www.linkedin.com/in/manish-pal-617a7b108/
